@@ -1,0 +1,2 @@
+## disclaimer
+Text samples and translations were acquired from publicly available resources as well as the author’s personal archive of high-quality translations and contain no confidential or personal information.
