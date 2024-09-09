@@ -1,0 +1,5 @@
+The project will consist of multiple formats: a game, a checklist, and a content article.
+Content article
+A longread describing how megacity dwellers can prepare for the snow season. It will consist of two parts: tips and personal opinion. 
+In the tips section, we will list lifehacks for taking care of your car (for instance, a reminder to empty the windshield washer reservoir to avoid it being frozen when the days get cold, as well as to put a brush and 
+an ice scraper in the car, etc.) In the article, we will also talk about the importance of choosing the appropriate tires, which will make your car journey safe — this part will describe the advantages of XXXXX tires. 

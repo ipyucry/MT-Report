@@ -1,0 +1,12 @@
+Use DNS servers xx3.xxx.xx, xx4.xxx.xx and xx8.xxx.xx to bind your domain to a hosting or server. In this case, you need to bind your domain to the IP address in your XXXXX account.
+To bind a domain to an IP address:
+1.	Login to the personal account.
+2.	In the Services section, select My Domains:
+3.	Click on the domain name:
+4.	Scroll down the page. Under DNS Premium, select Control Panel:
+5.	Click Add New Entry:
+6.	Fill in the fields:
+-	Name — a subdomain for which you want to add an entry. If you are linking the primary domain, use @.
+-	Type — select A;
+-	IP Address — an IP address to which you want to bind the domain.
+Then click Done.

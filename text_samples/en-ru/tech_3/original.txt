@@ -1,0 +1,19 @@
+HyperX SO-DIMM
+FEATURES/BENEFITS
+Compatible
+— tested with all popular brands of motherboards
+Reliable
+— 100% tested
+Easy to install
+Guaranteed
+— lifetime warranty, 24/7 live technical support
+Capacities: 1GB–4GB (with 1GB, 2GB and 4GB kits)
+Frequency speed
+DDR2: 533MHz–800MHz
+DDR3: 1066MHz–1866MHz
+Operating temperature: 0°C to 85°C
+Storage temperature: -55°C to 100°C
+Dimensions (DDR2 and DDR3): 68.1mm x 30.00mm
+JEDEC standard:	1.5V ± 0.075V
+Available in a variety of CAS Latencies.
+HyperX SO-DIMM is available in DDR2 in speeds up to 800MHz and in DDR3 in speeds up to 1866MHz — the fastest SO-DIMM on the market.

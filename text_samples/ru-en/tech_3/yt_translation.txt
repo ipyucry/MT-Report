@@ -1,0 +1,4 @@
+The XXXXX binocular consists of a stationary base and a movable head.
+The head part implements a video and photographic material playback system based on a computing module, a graphical information representation system and an optical system.
+The binocular is capable of operating on AC power.
+The product contains pre-installed YYYY software necessary for communication and regular operation of the electronic components of the Binocular XXXXX Product. The Product contains pre-installed XXXXX Player software, which is necessary to play the content uploaded to the Product.

@@ -1,0 +1,10 @@
+The uniqueness of the text should be 70% and above. If the uniqueness is lower, the material is not sent to news aggregators
+Title length: no more than 73 characters with spaces 
+Length of the lead-paragraph: no more than 220 characters with spaces 
+Text length: 3000 - 4000 characters with spaces
+Photos: 1400x700px
+Number of photos and/or images in the text: 1-3 pcs
+Link: should lead to client site
+Content requirements for text:
+The title cannot be written in first person.
+The text should be informative, clearly indicating: customer (from which company news), product and/or service. 

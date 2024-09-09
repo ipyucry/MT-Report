@@ -1,0 +1,6 @@
+The project will consist of several formats: a game, a checklist, and content material.
+Content material
+Longride, in which we will tell about how a resident of a megalopolis should prepare for winter.
+It will be divided into two parts: tips and personal opinion.
+In the part with tips we will list car care related flyhacks (for example, a reminder to pour water out of the wiper tank in advance so that it does not freeze with the first frosts, as well as to put a wiper blade and scraper in the car, etc.).
+It will also talk about the importance of choosing tires that will ensure safety on the road - this entire paragraph will be dedicated to the benefits of XXXXX tires.

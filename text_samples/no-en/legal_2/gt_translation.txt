@@ -1,0 +1,4 @@
+Section 102. About the visa information system (VIS)
+Within the Schengen cooperation, of which Norway is a part, a system for the exchange of visa information, the visa information system VIS, is established, cf. regulation no. 767/2008. VIS consists of a central unit for visa information, Central-VIS, national units for each country participating in the Schengen cooperation, NORVIS for Norway, and a communication structure between these.
+
+The Personal Data Act applies to the processing of information in the VIS unless otherwise determined by law or regulation.

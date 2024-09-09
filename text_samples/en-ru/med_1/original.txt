@@ -1,0 +1,2 @@
+Pharmacodynamic properties
+Like other members of its class, atorvastatin inhibits HMG-CoA reductase and impedes the formation of mevalonic acid, which is a rate-limiting step in the biosynthesis of cholesterol. The resulting effect is a reduction in intracellular cholesterol leading to an increase in the number of low density lipoprotein (LDL)-receptors and increase in LDL-cholesterol clearance from plasma. HMG-CoA reductase inhibitors may also lower plasma cholesterol levels by decreasing hepatic production of very low density lipoprotein (VLDL) and LDL-cholesterol.

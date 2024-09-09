@@ -1,0 +1,12 @@
+To point a domain to a hosting or server, use DNS servers xx3.xxx.xx, xx4.xxx.xx and xx8.xxx.xx. In this case, you need to link the domain to the IP address in the XXXXX account.
+To link a domain to an IP address:
+1. Log in to your account.
+2. In the "Services" section, select My domains:
+3. Click on the domain name:
+4. Scroll down the page. In the "DNS Premium" line, select Control Panel:
+5. Click "Add new record":
+6. Fill in the fields:
+- Name — the subdomain for which you want to add a record. If you are linking the main domain, specify @.
+- Type — select A;
+- IP address — the IP address to which you want to link the domain.
+Then click "Add".
